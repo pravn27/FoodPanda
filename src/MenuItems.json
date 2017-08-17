@@ -1,0 +1,98 @@
+[
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu1.png",
+        "hotelName": "Cafe 5H by The Kitchen",
+        "location": "Lowrence Road, Casual Dining",
+        "status": "Open now",
+        "rating": 3.9,
+        "key":1
+    },
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu2.png",
+        "hotelName": "Truffles Ice & Spice",
+        "location": "American, Cafe",
+        "status": "Open now",
+        "rating": 4.2,
+        "key":2
+    },
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu3.png",
+        "hotelName": "Beijing Bites",
+        "location": "Lowrence Road, Casual Dining",
+        "status": "Open now",
+        "rating": 4.1,
+        "key":3
+    },
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu4.png",
+        "hotelName": "Londoners",
+        "location": "Lowrence Road, Casual Dining",
+        "status": "Open now",
+        "rating": 4.5,
+        "key":4
+    },
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu5.png",
+        "hotelName": "Big Wong",
+        "location": "Chinese, Thai",
+        "status": "Closed now",
+        "rating": 3.7,
+        "key":5
+    },
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu6.png",
+        "hotelName": "Londoners",
+        "location": "Lowrence Road, Casual Dining",
+        "status": "Open now",
+        "rating": 4.5,
+        "key":6
+    },
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu7.png",
+        "hotelName": "Londoners",
+        "location": "Lowrence Road, Casual Dining",
+        "status": "Open now",
+        "rating": 4.5,
+        "key":7
+    },
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu8.png",
+        "hotelName": "Londoners",
+        "location": "Lowrence Road, Casual Dining",
+        "status": "Open now",
+        "rating": 4.3,
+        "key":8
+    },
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu9.png",
+        "hotelName": "Londoners",
+        "location": "Lowrence Road, Casual Dining",
+        "status": "Closed now",
+        "rating": 4.5,
+        "key":9
+    },
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu10.png",
+        "hotelName": "Londoners",
+        "location": "Lowrence Road, Casual Dining",
+        "status": "Open now",
+        "rating": 4.5,
+        "key":10
+    },
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu11.png",
+        "hotelName": "Londoners",
+        "location": "Lowrence Road, Casual Dining",
+        "status": "Open now",
+        "rating": 4.3,
+        "key":11
+    },
+    {
+        "imgUrl": "../src/img/foodItem/imgmenu12.png",
+        "hotelName": "Londoners",
+        "location": "Lowrence Road, Casual Dining",
+        "status": "Open now",
+        "rating": 4.6,
+        "key":12
+    }
+]
